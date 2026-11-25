@@ -1,4 +1,5 @@
 public class Main {
+  // docs: update comments.
 public static void main(String[] args) {
   //Вариант 5: Поиск лучшего результата (Спортивное табло)
         int[] results = {523, 610, 578, 645, 590, 632};
